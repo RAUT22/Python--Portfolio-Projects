@@ -1,0 +1,3 @@
+CSV file is to big to upload, also tried compressed file to but unable to upload so if anyone wants raw dataset can visit the link below:
+
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/download?datasetVersionNumber=1
